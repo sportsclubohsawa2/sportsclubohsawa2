@@ -67,8 +67,8 @@ position:fixed;
 top:0;
 left:0;
 z-index:-1;
-width:100%;
-height:100vh;
+width:50%;
+height:50vh;
 background:url(20241025_000.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
