@@ -86,7 +86,7 @@ left: 2em;
 a.p:hover span {
 border: none;
 display: block;
-width: 800px;
+width: 1600px;
 }
 
 
