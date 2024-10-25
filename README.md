@@ -130,7 +130,7 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-
+<!--
 <h2><span class="yellow">まっちゃんからの開催案内！</span></h2>
 
 <a href="20241023_001.JPG" target="_blank"><img src="20241023_001.JPG" alt="サンプル画像" width="900" /></a>
@@ -138,7 +138,7 @@ p.note { display: none; }
 <h2><span class="yellow">有楽町駅から集合地点に向かいます！</span></h2>
 
 <a href="20241023_002.JPG" target="_blank"><img src="20241023_002.JPG" alt="サンプル画像" width="900" /></a>
-
+-->
 
 <!--
 <br><br>
