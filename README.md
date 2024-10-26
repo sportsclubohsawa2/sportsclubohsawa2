@@ -115,10 +115,10 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<!—
+<!--
 <p align="left"> <img src="QR_2024Oct23.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-—>
+-->
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">ＳＣおおさわ</marquee></span></h1>
 
