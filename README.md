@@ -130,9 +130,9 @@ p.note { display: none; }
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <!--ここから下が、本体部分-->
-<h2><span class="yellow">まっちゃんからの開催案内！</span></h2>
+<h2><span class="yellow">お試し！</span></h2>
 
-<a href="20241023_001.JPG" target="_blank"><img src="20241023_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241027_001.pptx" target="_blank"><img src="20241027_001.pptx" alt="サンプル画像" width="900" /></a>
 
 <!--
 <h2><span class="yellow">まっちゃんからの開催案内！</span></h2>
